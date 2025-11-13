@@ -1,4 +1,6 @@
-# Survey report (Students)
+# Survey report (Faculty)
+Participants were asked to evaluate the statements using a Likert 5-step scales. 
+Total respondents: 
 
 | # | Statement | Average | St. Dev | Mode |
 |---|------------|----------|----------|------|
